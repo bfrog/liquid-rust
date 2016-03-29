@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["expect","Confirm that the next token in a token stream is what you want it to be. The token iterator is moved to the next token in the stream."],["parse",""]]});
